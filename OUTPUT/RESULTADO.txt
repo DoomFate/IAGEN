@@ -1,0 +1,9 @@
+
+
+1. **Seção superior esquerda**: Texto manuscrito em letra cursiva preta em papel pautado. O texto não é claramente legível.
+2. **Seção superior direita**: Texto colorido e imagens relacionadas ao OCR (Reconhecimento Óptico de Caracteres) e itens alimentares. Inclui frases como "OCR TEXT RECOGNITION", "DOSHF FEXTS", "DEST TEXT", "RESTAURANT MEXTO" e "REST TEXT".
+3. **Seção inferior esquerda**: Duas colunas estilo jornal com os títulos "Destaur.ant" e "DESTAUIE". O texto dentro dessas colunas é denso e parece estar em uma fonte decorativa, dificultando a leitura.
+4. **Seção inferior direita**: O que parece ser um formulário ou documento com vários campos e assinaturas. O texto inclui cabeçalhos e informações detalhadas, mas não é claramente legível.
+
+A imagem destaca diferentes estilos e formatos de texto, mostrando os desafios e as aplicações da tecnologia OCR em reconhecer e interpretar vários tipos de texto. 
+
